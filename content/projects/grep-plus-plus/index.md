@@ -6,7 +6,7 @@
 
 - **Time Span** -> 20+ hours
 - **Completed** -> March 2026
-- **Git Repository** -> [CodeBerg](https://codeberg.org/vilebile17/grep-plus-plus)
+- **Git Repository** -> [Github](https://github.com/vilebile17/grep_plus_plus)
 
 ![grep++ banner](/images/grep++.png)
 

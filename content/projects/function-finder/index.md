@@ -6,7 +6,7 @@
 
 - **Time Span** -> 3+ hours
 - **Completed** -> July 2026
-- **Git Repository** -> [Codeberg](https://codeberg.org/vilebile17/nonesense/src/branch/main/function_finder.py)
+- **Git Repository** -> [Github](https://github.com/vilebile17/nonsense/blob/main/function_finder.py)
 
 ![some graph](/images/some-graph.png)
 

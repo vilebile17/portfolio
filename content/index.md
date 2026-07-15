@@ -25,9 +25,8 @@ Nearly all that I have learnt programming-wise was from [boot.dev](https://www.b
 
 - [Email](mailto:vilebile17.camper137@passinbox.com)
 - [Github](https://github.com/vilebile17)
-- [Codeberg](https://codeberg.org/vilebile17)
 - [Boot.dev](https://www.boot.dev/u/vilebile17)
 - [Monkeytype](https://monkeytype.com/profile/vilebile17)
 - [Chess.com](https://www.chess.com/member/vilebile17)
 
-_By the way_, this site was generated using my custom [Static Site Generator](/projects/ssg) based upon a [guided project](https://www.boot.dev/courses/build-static-site-generator-python) on [boot.dev](https://www.boot.dev?bannerlord=vilebile17)
+_By the way_, this site was generated using my custom [Static Site Generator](/projects/static-site-generator) based upon a [guided project](https://www.boot.dev/courses/build-static-site-generator-python) on [boot.dev](https://www.boot.dev?bannerlord=vilebile17)

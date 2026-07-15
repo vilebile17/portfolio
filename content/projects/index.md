@@ -10,7 +10,7 @@
 ## Python 🐍
 
 - [BlurtBot](/projects/blurt-bot)
-- [Static Site Generator](/projects/ssg)
+- [Static Site Generator](/projects/static-site-generator)
 - [FunctionFinder](/projects/function-finder)
 
 ## Other 🎲
