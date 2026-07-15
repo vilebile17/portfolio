@@ -2,6 +2,8 @@
 
 [<- Back Home](/)
 
+[<- Back to Projects](/projects)
+
 ## Project Rundown
 
 - **Time Span** -> 30+ hours
@@ -19,4 +21,4 @@ that makes API requests to [pokeapi.co](https://pokeapi.co/) and packages it nic
 clean _CLI tool_
 
 This project was my fifth [guided project](https://www.boot.dev/courses/build-pokedex-cli-golang)
-on [boot.dev](https://www.boot.dev?bannerlord=vilebile17) and my first in **Golang**
+on [boot.dev](https://www.boot.dev) and my first in **Golang**

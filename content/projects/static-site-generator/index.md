@@ -2,6 +2,8 @@
 
 [<- Back Home](/)
 
+[<- Back to Projects](/projects)
+
 ## Project Rundown
 
 - **Time Span** -> 30+ hours
@@ -16,7 +18,7 @@
 
 A **static site generator** (SSG) is a program that can convert text files (such as .md ones)
 into fully-fledged HTML files which a browser can render. This project was done as my fourth
-[guided project](https://www.boot.dev/courses/build-static-site-generator-python) on [boot.dev](https://www.boot.dev?bannerlord=vilebile17) 
+[guided project](https://www.boot.dev/courses/build-static-site-generator-python) on [boot.dev](https://www.boot.dev) 
 and according to them it's one of the hardest on their platform (I personally **fully agree** with that take)
 
 In fact, _just for fun_, I decided to generate this entire portfolio site using this SSG rather than a _"better"_ website maker
