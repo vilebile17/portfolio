@@ -11,12 +11,9 @@
 
 - [BlurtBot](/projects/blurt-bot)
 - [Static Site Generator](/projects/static-site-generator)
-- [FunctionFinder](/projects/function-finder)
+- [Function Finder](/projects/function-finder)
+- [Electron Simulator](/projects/electron-simulator)
 
 ## Other 🎲
 
 - [Grep++](/projects/grep-plus-plus)
-
-## Non-Programming 🎮
-
-- [Nine Round Objects](/projects/nine-round-objects)
