@@ -1,0 +1,174 @@
+@import url("https://cdn.jsdelivr.net/npm/@catppuccin/palette/css/catppuccin.css");
+
+:root {
+        --bg-dark: var(--ctp-mocha-mantle);
+        --bg: var(--ctp-mocha-base);
+        --bg-light: var(--ctp-mocha-surface0);
+        --text: var(--ctp-mocha-text);
+        --text-muted: var(--ctp-mocha-subtext1);
+        --highlight: var(--ctp-mocha-sky);
+        --border: var(--ctp-mocha-sapphire);
+        --border-muted: var(--ctp-mocha-blue);
+        --primary: var(--ctp-mocha-sky);
+        --secondary: var(--ctp-mocha-mauve);
+        --danger: var(--ctp-mocha-red);
+        --warning: var(--ctp-mocha-yellow);
+        --success: var(--ctp-mocha-green);
+        --info: var(--ctp-mocha-blue);
+}
+@media (prefers-color-scheme: light) {
+        :root {
+                --bg-dark: var(--ctp-latte-crust);
+                --bg: var(--ctp-latte-mantle);
+                --bg-light: var(--ctp-latte-base);
+                --text: var(--ctp-latte-text);
+                --text-muted: var(--ctp-latte-subtext1);
+                --highlight: var(--ctp-latte-sky);
+                --border: var(--ctp-latte-sapphire);
+                --border-muted: var(--ctp-latte-blue);
+                --primary: var(--ctp-latte-sky);
+                --secondary: var(--ctp-latte-peach);
+                --danger: var(--ctp-latte-red);
+                --warning: var(--ctp-latte-yellow);
+                --success: var(--ctp-latte-green);
+                --info: var(--ctp-latte-blue);
+        }
+}
+
+body {
+        background-color: var(--bg);
+        color: var(--text-muted);
+        font-family: inter;
+        line-height: 1.7;
+        margin: 0;
+        padding: 20px;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+b {
+        color: var(--text);
+        font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+        color: var(--text);
+        margin-top: 24px;
+        margin-bottom: 16px;
+}
+
+h1 {
+        font-size: 2.5em;
+}
+
+h2 {
+        font-size: 2em;
+}
+
+h3 {
+        font-size: 1.5em;
+}
+
+h4,
+h5,
+h6 {
+        font-size: 1.2em;
+}
+
+a {
+        color: var(--primary);
+        text-decoration: none;
+        border-bottom: 2px solid var(--primary);
+        cursor: pointer;
+}
+
+a:hover {
+        color: var(--secondary);
+        border-color: var(--secondary);
+}
+
+label {
+        color: var(--text-muted);
+}
+
+ul,
+ol {
+        padding-left: 30px;
+}
+
+ul {
+        list-style: "· ";
+}
+
+code {
+        background-color: var(--bg-light);
+        border-radius: 4px;
+        color: var(--text-muted);
+        padding: 0.3em 0.2em;
+        font-family: "courier new", monospace;
+}
+
+pre code {
+        padding: 0;
+}
+
+pre {
+        background-color: var(--bg-light);
+        border-radius: 4px;
+        padding: 1em;
+        overflow: auto;
+}
+
+blockquote {
+        background-color: var(--bg);
+        border-left: 4px solid var(--secondary);
+        padding-left: 2em;
+        margin-left: 0;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        padding-right: 0.5em;
+        color: var(--text);
+        font-style: italic;
+}
+
+img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 6px;
+        border: none;
+}
+
+::-webkit-scrollbar {
+        width: 12px;
+        height: 12px;
+}
+
+::-webkit-scrollbar-track {
+        background: #1f1c25;
+        border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+        background-color: #3c3c42;
+        border-radius: 6px;
+        border: 3px solid #1f1c25;
+}
+
+::-webkit-scrollbar-thumb:hover {
+        background-color: #5a5466;
+}
+
+* {
+        scrollbar-width: thin;
+        scrollbar-color: #3c3c42 #1f1c25;
+}
+
+::-webkit-scrollbar-corner {
+        background: #1f1c25;
+}
