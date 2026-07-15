@@ -4,7 +4,7 @@
 
 ## Golang 🐹
 
-- [Zimmer](/projects/zimmer)
+- [Zimmer](/projects/wip)
 - [PokedexCLI](/projects/pokedex-cli)
 
 ## Python 🐍
@@ -17,3 +17,4 @@
 ## Other 🎲
 
 - [Grep++](/projects/grep-plus-plus)
+- [Nine Round Objects](/projects/wip)
