@@ -16,7 +16,7 @@
 
 ## A Pokémon API helper
 
-The `pokedexcli` is a [REPL](https://en.wikipedia.org/wiki/repl) build in [Golang](https://go.dev/)
+The `pokedexcli` is a [REPL](https://en.wikipedia.org/wiki/repl) built in [Golang](https://go.dev/)
 that makes API requests to [pokeapi.co](https://pokeapi.co/) and packages it nicely into a very
 clean _CLI tool_
 
