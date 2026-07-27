@@ -24,6 +24,7 @@ Nearly all that I have learnt programming-wise was from [boot.dev](https://www.b
 ## Links
 
 - [Github](https://github.com/vilebile17)
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-somauroo/)
 - [Boot.dev Profile](https://www.boot.dev/u/vilebile17), [affiliate link](https://www.boot.dev?bannerlord=vilebile17)
 - [Leetcode](https://leetcode.com/u/vilebile17/)
 - [Monkeytype](https://monkeytype.com/profile/vilebile17)

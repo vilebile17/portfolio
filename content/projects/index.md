@@ -4,7 +4,7 @@
 
 ## Golang 🐹
 
-- [Zimmer](/projects/wip)
+- [Zimmer](/projects/zimmer)
 - [PokedexCLI](/projects/pokedex-cli)
 
 ## Python 🐍
