@@ -6,7 +6,7 @@ I am **vilebile_17**, a 16 y/o mathematics enthusiast, [Arch](https://archlinux.
 
 ## Featured Projects
 
-- [grep++](/projects/grep-plus-plus)
+- [Zimmer](/projects/zimmer)
 - [BlurtBot](/projects/blurt-bot)
 - [FunctionFinder](/projects/function-finder)
 
