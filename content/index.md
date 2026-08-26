@@ -9,6 +9,7 @@ I am **vilebile_17**, a 16 y/o mathematics enthusiast, [Arch](https://archlinux.
 - [Zimmer](/projects/zimmer)
 - [BlurtBot](/projects/blurt-bot)
 - [FunctionFinder](/projects/function-finder)
+- [Nine Round Objects](/projects/nine-round-objects)
 
 To view all projects click [here](/projects)
 

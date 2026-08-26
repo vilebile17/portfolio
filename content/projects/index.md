@@ -17,4 +17,4 @@
 ## Other 🎲
 
 - [Grep++](/projects/grep-plus-plus)
-- [Nine Round Objects](/projects/wip)
+- [Nine Round Objects](/projects/nine-round-objects)
